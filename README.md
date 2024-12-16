@@ -1,4 +1,5 @@
-geneADD - Générateur d'Additions (README.md)
+geneADD - Générateur d'Additions
+
 Description
 
 geneADD est une application conviviale conçue pour créer des feuilles d'exercices d'addition personnalisées pour la pratique des mathématiques. Elle s'adresse aux enseignants et aux parents qui souhaitent générer des feuilles de travail rapidement et facilement, en les adaptant aux objectifs d'apprentissage spécifiques.
